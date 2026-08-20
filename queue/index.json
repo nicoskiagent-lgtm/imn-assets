@@ -1,5 +1,35 @@
 [
  {
+  "datum": "2026-08-21",
+  "saeule": "Frage an die Community",
+  "thema": "Acht Minuten zur S-Bahn"
+ },
+ {
+  "datum": "2026-08-22",
+  "saeule": "Bestes Thema der Woche",
+  "thema": "Grundsteuer Baden-Württemberg"
+ },
+ {
+  "datum": "2026-08-23",
+  "saeule": "Persoenlich / BTS",
+  "thema": "Nicht jeder Wunschpreis lässt sich verkaufen"
+ },
+ {
+  "datum": "2026-08-24",
+  "saeule": "Preis-Radar",
+  "thema": "Stuttgart-Möhringen"
+ },
+ {
+  "datum": "2026-08-25",
+  "saeule": "Der teure Fehler",
+  "thema": "Vorfälligkeitsentschädigung"
+ },
+ {
+  "datum": "2026-08-26",
+  "saeule": "Makler-Klartext",
+  "thema": "Zu hoher Startpreis"
+ },
+ {
   "datum": "2026-08-27",
   "saeule": "Der teure Fehler",
   "thema": "Die Grundschuld steht noch drin. Deine ist längst bezahlt."
@@ -448,5 +478,25 @@
   "datum": "2026-11-24",
   "saeule": "Fremdinserat-Teardown",
   "thema": "Ein Inserat, das alles richtig macht. Zur Abwechslung."
+ },
+ {
+  "datum": "2026-11-25",
+  "saeule": "Makler-Klartext",
+  "thema": "Wegerecht in Abteilung II"
+ },
+ {
+  "datum": "2026-11-26",
+  "saeule": "Der teure Fehler",
+  "thema": "Gemischte Schenkung an Kinder"
+ },
+ {
+  "datum": "2026-11-27",
+  "saeule": "Frage an die Community",
+  "thema": "Garage oder Stellplatz"
+ },
+ {
+  "datum": "2026-11-28",
+  "saeule": "Bestes Thema der Woche",
+  "thema": "Ortsdurchschnitte richtig lesen"
  }
 ]
